@@ -1,6 +1,6 @@
-# Software FJ – Final Improved Project
+# Software FJ
 
-## Academic Description
+## Description
 This project is a desktop application developed in Python using Tkinter.
 It demonstrates core Object-Oriented Programming principles without
 using a database.
